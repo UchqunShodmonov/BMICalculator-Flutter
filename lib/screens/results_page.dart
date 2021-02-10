@@ -47,7 +47,7 @@ class ResultsPage extends StatelessWidget {
                     style: kBMITextStyle,
                   ),
                   Text(
-                   interpretation,
+                    interpretation,
                     style: kBodyTextStyle,
                     textAlign: TextAlign.center,
                   )
